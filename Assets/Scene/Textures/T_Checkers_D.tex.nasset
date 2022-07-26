@@ -1,0 +1,57 @@
+{
+    "guid": "a1ce7102-738e-3ced-108d-f3bfa678eb30",
+    "source": "../../Textures/T_Checkers_D.png",
+    "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+    "resolution": [
+        128.0,
+        128.0
+    ],
+    "preset": 3,
+    "usage_flags": 6,
+    "bc_data": {
+        "format": 131,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 8192
+            },
+            {
+                "level": 1,
+                "offset": 8192,
+                "size": 2048
+            },
+            {
+                "level": 2,
+                "offset": 10240,
+                "size": 512
+            },
+            {
+                "level": 3,
+                "offset": 10752,
+                "size": 128
+            },
+            {
+                "level": 4,
+                "offset": 10880,
+                "size": 32
+            },
+            {
+                "level": 5,
+                "offset": 10912,
+                "size": 8
+            },
+            {
+                "level": 6,
+                "offset": 10920,
+                "size": 8
+            },
+            {
+                "level": 7,
+                "offset": 10928,
+                "size": 8
+            }
+        ]
+    },
+    "astc_data": {}
+}
