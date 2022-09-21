@@ -1,4 +1,8 @@
 {
+    "002778d6-2f1d-a488-cd8f-26980726f2c8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Wall.mtli.nasset.tex.nasset"
+    },
     "008a18b4-8267-f02c-aad6-0504c03224e5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -32,9 +36,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Grass 02.mesh.nasset/Grass 02.mesh.nasset",
+        "thumbnail": "fda0651a-9fbc-28ef-eb46-b41e32b3eb3c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "035f79bf-710e-06ba-2fc0-b16635733407": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Grass 01.mesh.nasset/Thumbnails/Grass 01.mesh.nasset.tex.nasset"
     },
     "03863277-fea0-9deb-7501-e8571e322f38": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -72,18 +81,21 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Pit Roof.mesh.nasset/Pit Roof.mesh.nasset",
+        "thumbnail": "2783b430-d580-0b23-920d-d52a676e9c32",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "04e46dc7-fea6-0a6a-0ecb-f916ba347c9b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Wood.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Wood.mtli.nasset",
+        "thumbnail": "78af2355-22bc-4a4f-7d2d-80717a480202"
     },
     "05da51f6-3e97-b0ed-f0b7-3678becdd0ba": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Tower.mesh.nasset/Tower.mesh.nasset",
+        "thumbnail": "114bf8f5-caae-e754-079c-13d7001698b1",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -106,12 +118,14 @@
     },
     "085293e7-6d56-25b6-1c1a-db7f7cd97423": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Snow.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Snow.mtli.nasset",
+        "thumbnail": "0f4b2c24-fe7b-7ca8-d368-ca85a9cf700e"
     },
     "086b8336-08fd-6b6f-2ab8-044260baf8fd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Flag Checkered.mesh.nasset/Flag Checkered.mesh.nasset",
+        "thumbnail": "4f9006ee-ecc2-7b23-5f3d-8dca40780e0f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -128,13 +142,15 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Garage Corner.mesh.nasset/Garage Corner.mesh.nasset",
+        "thumbnail": "e8f3fe63-6f40-00b1-a438-d554d2754409",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "0b35392d-608b-d827-0ebc-f80be50d4d9d": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Green.001.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Green.001.mtli.nasset",
+        "thumbnail": "17f9c43d-1675-7635-e2d1-939281eb0d66"
     },
     "0b947f44-8ef1-6388-af8c-446c2899acd4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -144,6 +160,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Road Corner LRG Border.mesh.nasset/Road Corner LRG Border.mesh.nasset",
+        "thumbnail": "ff480e0a-400a-71b2-5765-6bc44c592c81",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -160,6 +177,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Moss 05.mesh.nasset/Rock Moss 05.mesh.nasset",
+        "thumbnail": "8ae61711-33bf-6d1a-dfbe-aa74da633cc7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -180,6 +198,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "0f4b2c24-fe7b-7ca8-d368-ca85a9cf700e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Snow.mtli.nasset.tex.nasset"
+    },
+    "105e8741-d666-1ee3-3d64-3c426a1f8d9f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Common Tree 02.mesh.nasset/Thumbnails/Common Tree 02.mesh.nasset.tex.nasset"
+    },
     "10670d4a-0932-4714-c358-7bfbd0f0a2c2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -195,6 +221,14 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "114bf8f5-caae-e754-079c-13d7001698b1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Tower.mesh.nasset/Thumbnails/Tower.mesh.nasset.tex.nasset"
+    },
+    "11863f58-cd3d-5875-33d3-8d0ac9514b26": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Pine Tree 01.mesh.nasset/Thumbnails/Pine Tree 01.mesh.nasset.tex.nasset"
     },
     "12258679-bc38-567f-c774-346faf910358": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -224,6 +258,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Road Bump.mesh.nasset/Road Bump.mesh.nasset",
+        "thumbnail": "a9ccb02b-7724-d23b-9e05-c55ee0e7a692",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -248,6 +283,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Road Straight LRG.mesh.nasset/Road Straight LRG.mesh.nasset",
+        "thumbnail": "4caa0d8e-6300-fa26-7ec1-b25f4f484c6e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -268,6 +304,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "17f9c43d-1675-7635-e2d1-939281eb0d66": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Green.001.mtli.nasset.tex.nasset"
+    },
     "18339668-136d-4149-08df-eb2607b0041a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -276,21 +316,39 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "1a24b092-5f9b-3b84-29d7-6a4fabc7f55c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Garage Closed.mesh.nasset/Thumbnails/Garage Closed.mesh.nasset.tex.nasset"
+    },
+    "1b068bac-782a-b573-4230-00f1efa807db": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Snow 02.mesh.nasset/Thumbnails/Rock Snow 02.mesh.nasset.tex.nasset"
+    },
     "1c33774a-b91c-e0be-186f-84b77106749b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Common Tree 05.mesh.nasset/Common Tree 05.mesh.nasset",
+        "thumbnail": "30264972-f8e4-f300-6664-0324fb7ffb44",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "1d261ddd-bef5-00c1-d74a-b121ca80108b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Road Straight.mesh.nasset/Thumbnails/Road Straight.mesh.nasset.tex.nasset"
     },
     "1f0c0b81-c7eb-e1e7-5358-55222c6be3e4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Road Corner LRG Inner.mesh.nasset/Road Corner LRG Inner.mesh.nasset",
+        "thumbnail": "2b0fbad1-6fb6-3004-7a50-a1af027690eb",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "1fd2d429-cfdc-b12c-eb58-b5834b08fcaa": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Pavement.mtli.nasset.tex.nasset"
     },
     "2009cd8e-9704-7f48-8cd1-3050ebf62843": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -304,6 +362,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Tent Long.mesh.nasset/Tent Long.mesh.nasset",
+        "thumbnail": "4d2d5704-1d3d-6c0d-b072-379c67665e68",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -312,6 +371,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Snow 06.mesh.nasset/Rock Snow 06.mesh.nasset",
+        "thumbnail": "b60a5c2f-bc28-5356-6e2e-ae63fc111466",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -336,6 +396,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Fence Straight.mesh.nasset/Fence Straight.mesh.nasset",
+        "thumbnail": "e39ba19b-6751-cbe0-ea1b-51659debe3b7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -364,18 +425,32 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "256aeaa8-0394-aa34-e1ec-cd3c672a0bbb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Pine Tree 04.mesh.nasset/Thumbnails/Pine Tree 04.mesh.nasset.tex.nasset"
+    },
     "25d83d47-3657-d205-c590-e35f6f81884c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/Textures/T_Net_D.tex.nasset"
     },
+    "2783b430-d580-0b23-920d-d52a676e9c32": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Pit Roof.mesh.nasset/Thumbnails/Pit Roof.mesh.nasset.tex.nasset"
+    },
+    "27dc2dc4-d005-38bb-988b-55d1ac9027c6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Checkers.mtli.nasset.tex.nasset"
+    },
     "288dbdb7-b8e8-3967-8015-416bb5d73f9c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Rock.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Rock.mtli.nasset",
+        "thumbnail": "39b2b082-851a-4e97-dc40-fddf426f5549"
     },
     "2928615a-3437-efa6-992f-ec7998973a2d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock 04.mesh.nasset/Rock 04.mesh.nasset",
+        "thumbnail": "ef9acb6d-cb68-965f-22cb-465701b07abf",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -384,6 +459,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Road Corner LRG Sand.mesh.nasset/Road Corner LRG Sand.mesh.nasset",
+        "thumbnail": "3b5ba6ce-03fc-4652-cdea-c797d80fa635",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -416,6 +492,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Pine Tree 04.mesh.nasset/Pine Tree 04.mesh.nasset",
+        "thumbnail": "256aeaa8-0394-aa34-e1ec-cd3c672a0bbb",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -432,9 +509,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Satellite.mesh.nasset/Satellite.mesh.nasset",
+        "thumbnail": "6c19086e-e22b-5764-8437-8870fc197d5e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "2b0fbad1-6fb6-3004-7a50-a1af027690eb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Road Corner LRG Inner.mesh.nasset/Thumbnails/Road Corner LRG Inner.mesh.nasset.tex.nasset"
     },
     "2b97ad3d-469e-9691-ede6-deb2fa139051": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -446,7 +528,8 @@
     },
     "2c153e7c-a13c-e0ef-ed97-a6dcb0b38b47": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Glass.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Glass.mtli.nasset",
+        "thumbnail": "8dbfd73e-1e11-5531-27da-83c9c01b8cef"
     },
     "2c5a2917-af43-ab64-588f-9431f0dec865": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -468,6 +551,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Moss 07.mesh.nasset/Rock Moss 07.mesh.nasset",
+        "thumbnail": "c703fc8f-cfb3-61dc-825c-115a67b44cdc",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -492,6 +576,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Overhead.mesh.nasset/Overhead.mesh.nasset",
+        "thumbnail": "e6358ac8-ff62-593d-4a3f-8ef6d1c7c70d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -528,6 +613,18 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "30264972-f8e4-f300-6664-0324fb7ffb44": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Common Tree 05.mesh.nasset/Thumbnails/Common Tree 05.mesh.nasset.tex.nasset"
+    },
+    "30d1056c-4a6c-a3c1-9d03-7622596293c4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Grandstand Round.mesh.nasset/Thumbnails/Grandstand Round.mesh.nasset.tex.nasset"
+    },
+    "31057c8c-1588-a343-6e67-50cb31a752e7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Net.mtli.nasset.tex.nasset"
+    },
     "314e8b9d-57d0-bd0d-427b-9910ba3a3998": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -538,7 +635,8 @@
     },
     "315a793e-c016-d37f-8c98-a2db83e072dc": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Ngine.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Ngine.mtli.nasset",
+        "thumbnail": "c3eec7f2-0c51-f2e1-814a-03b38b834a7c"
     },
     "317e9617-eea5-9919-e93f-53b3fa3a82ac": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -548,13 +646,22 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "31a76407-681f-280d-963c-a5e57fdc6603": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Road Corner LRG Outer.mesh.nasset/Thumbnails/Road Corner LRG Outer.mesh.nasset.tex.nasset"
+    },
     "3210889d-1217-5d0f-690e-eeff7d36a7fb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Moss 03.mesh.nasset/Rock Moss 03.mesh.nasset",
+        "thumbnail": "85e2c129-58d9-5e72-468e-2fb740fed7d7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "32252de7-21b4-6723-cc32-b652099accc2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Rock 07.mesh.nasset/Thumbnails/Rock 07.mesh.nasset.tex.nasset"
     },
     "33131d14-d9d8-a83f-bff4-4c8d3ed54d9f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -605,6 +712,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Road Straight.mesh.nasset/Road Straight.mesh.nasset",
+        "thumbnail": "1d261ddd-bef5-00c1-d74a-b121ca80108b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -625,6 +733,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "39b2b082-851a-4e97-dc40-fddf426f5549": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Rock.mtli.nasset.tex.nasset"
+    },
     "3a621eca-a9a1-1afb-ec1c-ad7168d77e20": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -637,6 +749,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Pit Entry.mesh.nasset/Pit Entry.mesh.nasset",
+        "thumbnail": "6c233f22-6eaf-df3e-3036-26014f8940e6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -645,10 +758,15 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Formula_EnviroSpecular.tex.nasset"
     },
+    "3b5ba6ce-03fc-4652-cdea-c797d80fa635": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Road Corner LRG Sand.mesh.nasset/Thumbnails/Road Corner LRG Sand.mesh.nasset.tex.nasset"
+    },
     "3c042796-b959-9d70-ab2a-cf39c4bc6904": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock 05.mesh.nasset/Rock 05.mesh.nasset",
+        "thumbnail": "d97429ac-f045-e0e7-5567-d563afd54320",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -657,9 +775,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock 02.mesh.nasset/Rock 02.mesh.nasset",
+        "thumbnail": "b45abf22-0754-a56d-48a5-3a56a8387aa2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "3efa8500-caea-beef-c0d9-bf9aab385ceb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Snow 07.mesh.nasset/Thumbnails/Rock Snow 07.mesh.nasset.tex.nasset"
     },
     "3fcea75a-5bc2-e74b-ab71-83b2497a3d04": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -669,10 +792,15 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "400380af-87c7-6669-ebb4-655fe849f332": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Green.mtli.nasset.tex.nasset"
+    },
     "40b4d386-f616-a9bf-60c4-cce0f7e6c5a5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Pine Tree 01.mesh.nasset/Pine Tree 01.mesh.nasset",
+        "thumbnail": "11863f58-cd3d-5875-33d3-8d0ac9514b26",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -713,6 +841,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Snow 01.mesh.nasset/Rock Snow 01.mesh.nasset",
+        "thumbnail": "d30d5110-69d1-2c39-b5a6-699c437d7c48",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -721,9 +850,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Pine Tree 03.mesh.nasset/Pine Tree 03.mesh.nasset",
+        "thumbnail": "5a32697f-c926-3c27-350c-4cc1512ccca9",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "44a71e85-7b23-ada3-801e-c55da300662f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Road Corner LRG.mesh.nasset/Thumbnails/Road Corner LRG.mesh.nasset.tex.nasset"
     },
     "44bcf166-2e47-899c-3c41-921549aa6696": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -733,6 +867,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "45fa3e35-4cab-76fa-53bb-8e593d3745b0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Tent Closed.mesh.nasset/Thumbnails/Tent Closed.mesh.nasset.tex.nasset"
+    },
     "460d468f-2c35-901e-03cb-d9f2cd648c93": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -741,10 +879,15 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "4612e27d-1df2-24ec-a00d-a790485d2c6d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Cone.mesh.nasset/Thumbnails/Cone.mesh.nasset.tex.nasset"
+    },
     "46498482-9e4d-5e1f-c6da-f6538e0660c1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Pit Office.mesh.nasset/Pit Office.mesh.nasset",
+        "thumbnail": "c6dc0b15-3d12-43d0-3ec5-e05aa28755f5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -761,6 +904,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Road Start.001.mesh.nasset/Road Start.001.mesh.nasset",
+        "thumbnail": "8d05f84b-ae32-d94a-f399-fe4cd14b62a1",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -769,6 +913,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Common Tree 04.mesh.nasset/Common Tree 04.mesh.nasset",
+        "thumbnail": "a481d3f3-d362-89d5-db3e-03d7e4519006",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -780,6 +925,14 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "4a8e8826-b079-a9fd-ca42-87fad4867e23": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Snow 04.mesh.nasset/Thumbnails/Rock Snow 04.mesh.nasset.tex.nasset"
+    },
+    "4bcdd617-757e-5c7d-64c3-dd8334bf5c3a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/DarkGreen.mtli.nasset.tex.nasset"
     },
     "4c06299f-8567-e6d6-8f6a-368dcff872b3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -793,9 +946,18 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Billboard.mesh.nasset/Billboard.mesh.nasset",
+        "thumbnail": "d2128404-27be-6523-9469-94b64e663611",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "4caa0d8e-6300-fa26-7ec1-b25f4f484c6e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Road Straight LRG.mesh.nasset/Thumbnails/Road Straight LRG.mesh.nasset.tex.nasset"
+    },
+    "4d2d5704-1d3d-6c0d-b072-379c67665e68": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Tent Long.mesh.nasset/Thumbnails/Tent Long.mesh.nasset.tex.nasset"
     },
     "4d49cbb7-9f4e-5110-2af4-e59cf2a4fc1c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -805,6 +967,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "4e0f6f70-a3f1-c710-8274-ff6412cce5f8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Bridge Straight.mesh.nasset/Thumbnails/Bridge Straight.mesh.nasset.tex.nasset"
+    },
     "4e1d1728-0292-fc30-8468-2aa11fd46e40": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -813,6 +979,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "4e2b5e0c-28b4-3286-9fd3-135d63349caf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Snow 05.mesh.nasset/Thumbnails/Rock Snow 05.mesh.nasset.tex.nasset"
+    },
     "4e3762e2-4f96-fa28-4a99-f6831d0cab89": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -820,6 +990,14 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "4f9006ee-ecc2-7b23-5f3d-8dca40780e0f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Flag Checkered.mesh.nasset/Thumbnails/Flag Checkered.mesh.nasset.tex.nasset"
+    },
+    "52403453-3e8e-3b6f-8677-0a5feb779de8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Overhead LRG.mesh.nasset/Thumbnails/Overhead LRG.mesh.nasset.tex.nasset"
     },
     "52593be5-ceed-4574-5b72-1286938575f3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -849,6 +1027,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Tent Roof.mesh.nasset/Tent Roof.mesh.nasset",
+        "thumbnail": "78a7f1ab-ec93-c545-917b-ac5007548f66",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -857,14 +1036,20 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Road Corner LRG Outer.mesh.nasset/Road Corner LRG Outer.mesh.nasset",
+        "thumbnail": "31a76407-681f-280d-963c-a5e57fdc6603",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "55b1405b-7d52-7ae0-e705-5eafe264cd09": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Pylon.mtli.nasset.tex.nasset"
     },
     "55d0f843-7dec-a429-dc30-df635714b40f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Road Corner Long.mesh.nasset/Road Corner Long.mesh.nasset",
+        "thumbnail": "a1536935-77ae-6f94-974d-67a8da333f80",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -889,6 +1074,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Road Corner MD Border.mesh.nasset/Road Corner MD Border.mesh.nasset",
+        "thumbnail": "eab1015b-3c69-7929-460c-0fa3a7e8aa12",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -913,6 +1099,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Moss 06.mesh.nasset/Rock Moss 06.mesh.nasset",
+        "thumbnail": "b12c18f5-59e9-20a8-e868-ed209113e209",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -924,6 +1111,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "5a32697f-c926-3c27-350c-4cc1512ccca9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Pine Tree 03.mesh.nasset/Thumbnails/Pine Tree 03.mesh.nasset.tex.nasset"
     },
     "5a3f18e7-4fe4-48d0-b937-e1ba7c24999b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -951,6 +1142,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Barrier Wall.mesh.nasset/Barrier Wall.mesh.nasset",
+        "thumbnail": "c8585866-250e-a767-20e9-37f1d6d89a96",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -971,6 +1163,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "61d8f2e4-99c4-2a03-c414-2b033a3178ce": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Snow 03.mesh.nasset/Thumbnails/Rock Snow 03.mesh.nasset.tex.nasset"
+    },
     "62524e91-0b17-f0dd-06e9-84a17cebe66d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -987,10 +1183,15 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "65830990-1cff-137a-e8f2-4b7a7bc8a9e6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Moss 02.mesh.nasset/Thumbnails/Rock Moss 02.mesh.nasset.tex.nasset"
+    },
     "65b78fb7-d0e3-7ee5-2372-6df78dd93f10": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Bridge Ramp.mesh.nasset/Bridge Ramp.mesh.nasset",
+        "thumbnail": "d1261bcc-bc5b-6b84-832e-81d7634d1339",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -999,6 +1200,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Bridge Straight.mesh.nasset/Bridge Straight.mesh.nasset",
+        "thumbnail": "4e0f6f70-a3f1-c710-8274-ff6412cce5f8",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1029,7 +1231,12 @@
     },
     "67e8243b-0801-187f-5244-6c369d0e8af7": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/borderInnerWhite.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/borderInnerWhite.mtli.nasset",
+        "thumbnail": "876cfcdb-44d2-cc32-edbe-033bcc993f94"
+    },
+    "683aa7a1-1a8c-8695-ad58-3062788ff019": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Rock 06.mesh.nasset/Thumbnails/Rock 06.mesh.nasset.tex.nasset"
     },
     "68618fe8-c749-958c-f85f-a716a6271d19": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1043,9 +1250,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Pit Straight.mesh.nasset/Pit Straight.mesh.nasset",
+        "thumbnail": "6c8454ba-892f-c773-5b6e-1542c8a4736d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "6a9ee915-8556-107b-7f72-7caef64b3b1f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/White.mtli.nasset.tex.nasset"
     },
     "6b601b0a-403f-42f5-620f-7be04612b443": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1063,25 +1275,44 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "6c19086e-e22b-5764-8437-8870fc197d5e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Satellite.mesh.nasset/Thumbnails/Satellite.mesh.nasset.tex.nasset"
+    },
+    "6c233f22-6eaf-df3e-3036-26014f8940e6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Pit Entry.mesh.nasset/Thumbnails/Pit Entry.mesh.nasset.tex.nasset"
+    },
     "6c7ad066-ccfd-0bd6-2ac0-aca505e3daf4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Snow 05.mesh.nasset/Rock Snow 05.mesh.nasset",
+        "thumbnail": "4e2b5e0c-28b4-3286-9fd3-135d63349caf",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "6c8454ba-892f-c773-5b6e-1542c8a4736d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Pit Straight.mesh.nasset/Thumbnails/Pit Straight.mesh.nasset.tex.nasset"
+    },
+    "6d130a82-9c07-5fea-68fd-ef8f29e1ecb2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Pit Road.mesh.nasset/Thumbnails/Pit Road.mesh.nasset.tex.nasset"
     },
     "6dbf9152-ea9a-068f-815f-502560308632": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Banner.mesh.nasset/Banner.mesh.nasset",
+        "thumbnail": "739d7e0e-44c8-fd66-084f-7a2fcd647211",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "6df5ef0f-7700-d9cc-f377-e49745d2062f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Trim Main.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Trim Main.mtli.nasset",
+        "thumbnail": "fd625208-f6c4-2103-d0be-4c6e869749b5"
     },
     "6e3ec492-209f-021f-c100-08efe49e11a0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1101,7 +1332,8 @@
     },
     "6ec813bf-e3ce-117d-df19-ad72d4d708bd": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Bark.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Bark.mtli.nasset",
+        "thumbnail": "9943abf8-6049-9af1-d8ba-bbce5e4aeec6"
     },
     "6f5c38a9-f119-3b8e-b392-6178726c22ef": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1139,9 +1371,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Ground Border.mesh.nasset/Ground Border.mesh.nasset",
+        "thumbnail": "ee1748c4-170f-5ef4-5d9d-6774e66b30e6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "739d7e0e-44c8-fd66-084f-7a2fcd647211": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Banner.mesh.nasset/Thumbnails/Banner.mesh.nasset.tex.nasset"
     },
     "74edf98c-8d8b-6d6e-dfd5-cc627244b6ae": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1163,6 +1400,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Road Corner LRG.mesh.nasset/Road Corner LRG.mesh.nasset",
+        "thumbnail": "44a71e85-7b23-ada3-801e-c55da300662f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1171,6 +1409,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Grandstand Round.mesh.nasset/Grandstand Round.mesh.nasset",
+        "thumbnail": "30d1056c-4a6c-a3c1-9d03-7622596293c4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1179,9 +1418,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Cone.mesh.nasset/Cone.mesh.nasset",
+        "thumbnail": "4612e27d-1df2-24ec-a00d-a790485d2c6d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "7776ac83-5eb9-d498-48b2-ff25134df8fd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Trim Scondary.mtli.nasset.tex.nasset"
     },
     "7791d84d-1a83-e7d2-1e11-a1f6a2614e8b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1190,6 +1434,18 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "78a7f1ab-ec93-c545-917b-ac5007548f66": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Tent Roof.mesh.nasset/Thumbnails/Tent Roof.mesh.nasset.tex.nasset"
+    },
+    "78af2355-22bc-4a4f-7d2d-80717a480202": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Wood.mtli.nasset.tex.nasset"
+    },
+    "7960ca2c-fe56-ef56-1fb1-d463d7394f6e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Pit Exit.mesh.nasset/Thumbnails/Pit Exit.mesh.nasset.tex.nasset"
     },
     "7a22b698-a1c3-e532-4bcd-f6711263b04b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1201,7 +1457,8 @@
     },
     "7af3ce3b-c2ac-f1d4-9320-7380e2246148": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Green.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Green.mtli.nasset",
+        "thumbnail": "400380af-87c7-6669-ebb4-655fe849f332"
     },
     "7b35dc1a-3381-0d1b-f6ea-403a8f211b81": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1215,6 +1472,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Overhead LRG.mesh.nasset/Overhead LRG.mesh.nasset",
+        "thumbnail": "52403453-3e8e-3b6f-8677-0a5feb779de8",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1235,6 +1493,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock 03.mesh.nasset/Rock 03.mesh.nasset",
+        "thumbnail": "faf73419-b818-1ee8-2705-e686b6f5201e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1243,9 +1502,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock 01.mesh.nasset/Rock 01.mesh.nasset",
+        "thumbnail": "a7054b2a-6501-3ee1-8b8d-ad7adc7b8038",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "7d5cc0bf-2e16-cb04-d522-cfd6e90d73dc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Tent.mesh.nasset/Thumbnails/Tent.mesh.nasset.tex.nasset"
     },
     "7e01e9e6-1fd3-8533-675a-fb78c90e6495": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1287,6 +1551,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "833a95a5-0c89-e31a-e559-46edebee41da": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Moss 01.mesh.nasset/Thumbnails/Rock Moss 01.mesh.nasset.tex.nasset"
+    },
     "84a17382-410c-aa51-c7dd-2b0e899b0a2d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1299,9 +1567,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Garage Open.mesh.nasset/Garage Open.mesh.nasset",
+        "thumbnail": "9b7dce2b-383d-3299-f128-d7035de5aa7b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "85e2c129-58d9-5e72-468e-2fb740fed7d7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Moss 03.mesh.nasset/Thumbnails/Rock Moss 03.mesh.nasset.tex.nasset"
     },
     "85e985a8-ba23-8225-eaba-a9ae299ee654": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1319,10 +1592,19 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "876cfcdb-44d2-cc32-edbe-033bcc993f94": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/borderInnerWhite.mtli.nasset.tex.nasset"
+    },
+    "8795f851-eed4-77b0-fcf9-ab5d15a314b2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Road Corner.mesh.nasset/Thumbnails/Road Corner.mesh.nasset.tex.nasset"
+    },
     "87bd39ea-9695-fcc3-53a6-38a3226ed440": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Snow 04.mesh.nasset/Rock Snow 04.mesh.nasset",
+        "thumbnail": "4a8e8826-b079-a9fd-ca42-87fad4867e23",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1334,6 +1616,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "88281c83-bc7f-cf52-37ea-08624b963aeb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Pine Tree 05.mesh.nasset/Thumbnails/Pine Tree 05.mesh.nasset.tex.nasset"
     },
     "89251f8f-446e-73f6-7aeb-4e1ab36bfd2a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1367,6 +1653,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "8ae61711-33bf-6d1a-dfbe-aa74da633cc7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Moss 05.mesh.nasset/Thumbnails/Rock Moss 05.mesh.nasset.tex.nasset"
+    },
     "8af2c491-184f-1abb-03ff-c5cd4ff6eaf3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1379,6 +1669,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Grandstand Awning.mesh.nasset/Grandstand Awning.mesh.nasset",
+        "thumbnail": "d63d81d0-c575-6c07-ca61-5bbcbc68448c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1395,6 +1686,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Pit Road.mesh.nasset/Pit Road.mesh.nasset",
+        "thumbnail": "6d130a82-9c07-5fea-68fd-ef8f29e1ecb2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1423,6 +1715,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "8cb91d1d-88bb-165b-98ab-70064df3bd1f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Pine Tree 02.mesh.nasset/Thumbnails/Pine Tree 02.mesh.nasset.tex.nasset"
+    },
+    "8d05f84b-ae32-d94a-f399-fe4cd14b62a1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Road Start.001.mesh.nasset/Thumbnails/Road Start.001.mesh.nasset.tex.nasset"
+    },
     "8d5c5f59-eff6-12c8-a5d5-61b18c010d32": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1431,10 +1731,15 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "8dbfd73e-1e11-5531-27da-83c9c01b8cef": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Glass.mtli.nasset.tex.nasset"
+    },
     "8f8e1c66-a283-97a2-05a1-172485073fea": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Grass 03.mesh.nasset/Grass 03.mesh.nasset",
+        "thumbnail": "c6638023-3cc4-a57c-2987-7453e7c04bed",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1459,6 +1764,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Snow 02.mesh.nasset/Rock Snow 02.mesh.nasset",
+        "thumbnail": "1b068bac-782a-b573-4230-00f1efa807db",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1495,9 +1801,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "92d83835-76b6-c501-2cb1-4b50e3e12eb3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Common Tree 01.mesh.nasset/Thumbnails/Common Tree 01.mesh.nasset.tex.nasset"
+    },
     "933598e7-9b9a-357b-3719-8f99b513ffcc": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Grass.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Grass.mtli.nasset",
+        "thumbnail": "cec6c844-9b44-76f1-9d15-c8efbb73cf02"
     },
     "941d7b34-bc72-a3d1-b32a-91c207b2de7f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1509,7 +1820,8 @@
     },
     "94380f62-00a1-56b6-56f2-9945f1c8f036": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Default.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Default.mtli.nasset",
+        "thumbnail": "caa96817-619a-ad73-503b-35e9ea89bfe1"
     },
     "9451257a-734d-9a51-fe5d-b887fe0fa321": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1519,10 +1831,15 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "94805bf1-6b4f-f9f7-c2b2-6d6249b5d2e6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Moss 04.mesh.nasset/Thumbnails/Rock Moss 04.mesh.nasset.tex.nasset"
+    },
     "9487d18f-65e7-683d-7d1c-e9f155ba01e8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Moss 01.mesh.nasset/Rock Moss 01.mesh.nasset",
+        "thumbnail": "833a95a5-0c89-e31a-e559-46edebee41da",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1567,9 +1884,17 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "9943abf8-6049-9af1-d8ba-bbce5e4aeec6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Bark.mtli.nasset.tex.nasset"
+    },
     "9a440df6-5a4b-ef35-6786-58a35f0a62ab": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Formula_EnviroDiffuse.tex.nasset"
+    },
+    "9b7dce2b-383d-3299-f128-d7035de5aa7b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Garage Open.mesh.nasset/Thumbnails/Garage Open.mesh.nasset.tex.nasset"
     },
     "9bfef68c-7f40-69a9-b857-6d7a09d324c7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1581,7 +1906,8 @@
     },
     "9c9c0f5d-8e4f-73bd-22f9-49c55ef9f88a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/White.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/White.mtli.nasset",
+        "thumbnail": "6a9ee915-8556-107b-7f72-7caef64b3b1f"
     },
     "9ce0852c-d3ad-7a60-ff05-d61ba39a0086": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1615,6 +1941,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "a1536935-77ae-6f94-974d-67a8da333f80": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Road Corner Long.mesh.nasset/Thumbnails/Road Corner Long.mesh.nasset.tex.nasset"
+    },
+    "a16170df-1b8c-4c95-d6a4-d9a56ea02785": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Lightpost.mesh.nasset/Thumbnails/Lightpost.mesh.nasset.tex.nasset"
+    },
     "a1fe3eb7-3b65-4d4f-380e-0872fcf5e360": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1627,6 +1961,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Racecar.mesh.nasset/Racecar.mesh.nasset",
+        "thumbnail": "dd5ca735-551f-605a-d3d6-dd761c3f9545",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1635,14 +1970,20 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock 06.mesh.nasset/Rock 06.mesh.nasset",
+        "thumbnail": "683aa7a1-1a8c-8695-ad58-3062788ff019",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "a481d3f3-d362-89d5-db3e-03d7e4519006": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Common Tree 04.mesh.nasset/Thumbnails/Common Tree 04.mesh.nasset.tex.nasset"
     },
     "a4e07b8b-ffd2-8543-9b25-337cbd7bb140": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Road Corner MD.mesh.nasset/Road Corner MD.mesh.nasset",
+        "thumbnail": "b4718993-0016-a14a-f774-331515acd68d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1651,6 +1992,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Garage Closed.mesh.nasset/Garage Closed.mesh.nasset",
+        "thumbnail": "1a24b092-5f9b-3b84-29d7-6a4fabc7f55c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1659,6 +2001,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Grandstand.mesh.nasset/Grandstand.mesh.nasset",
+        "thumbnail": "bba3c0fd-7669-7113-7677-ba1f687596e4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1670,6 +2013,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "a7054b2a-6501-3ee1-8b8d-ad7adc7b8038": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Rock 01.mesh.nasset/Thumbnails/Rock 01.mesh.nasset.tex.nasset"
     },
     "a754e7e4-9eda-6b3d-f606-09eb19ae7ed2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1691,6 +2038,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Road Bridge.mesh.nasset/Road Bridge.mesh.nasset",
+        "thumbnail": "f7971890-d950-5577-5292-a64667f675c4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1710,6 +2058,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "a9ccb02b-7724-d23b-9e05-c55ee0e7a692": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Road Bump.mesh.nasset/Thumbnails/Road Bump.mesh.nasset.tex.nasset"
     },
     "aa7eb558-d284-5aaf-1414-525aca3350fa": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1739,6 +2091,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Snow 03.mesh.nasset/Rock Snow 03.mesh.nasset",
+        "thumbnail": "61d8f2e4-99c4-2a03-c414-2b033a3178ce",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1751,9 +2104,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Pine Tree 02.mesh.nasset/Pine Tree 02.mesh.nasset",
+        "thumbnail": "8cb91d1d-88bb-165b-98ab-70064df3bd1f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "b12c18f5-59e9-20a8-e868-ed209113e209": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Moss 06.mesh.nasset/Thumbnails/Rock Moss 06.mesh.nasset.tex.nasset"
     },
     "b3fc15f3-1d25-7cc7-4e0d-5e8828b5cb5e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1762,6 +2120,14 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "b45abf22-0754-a56d-48a5-3a56a8387aa2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Rock 02.mesh.nasset/Thumbnails/Rock 02.mesh.nasset.tex.nasset"
+    },
+    "b4718993-0016-a14a-f774-331515acd68d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Road Corner MD.mesh.nasset/Thumbnails/Road Corner MD.mesh.nasset.tex.nasset"
     },
     "b554598c-94ff-0276-3141-719441f11042": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1781,11 +2147,20 @@
     },
     "b58a8728-646e-2a55-9a65-9baebbbd06ae": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Wall.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Wall.mtli.nasset",
+        "thumbnail": "002778d6-2f1d-a488-cd8f-26980726f2c8"
     },
     "b5c9e115-a90b-5091-b390-ec8b84b22ea3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Formula_Enviro.tex.nasset"
+    },
+    "b60a5c2f-bc28-5356-6e2e-ae63fc111466": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Snow 06.mesh.nasset/Thumbnails/Rock Snow 06.mesh.nasset.tex.nasset"
+    },
+    "b624c31f-8576-9ca0-cd28-768781e24eac": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Dirt.mtli.nasset.tex.nasset"
     },
     "b72b8258-761f-7344-306d-932433c91973": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1807,6 +2182,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Ground Tile.mesh.nasset/Ground Tile.mesh.nasset",
+        "thumbnail": "e0053895-bc10-c47d-5e2d-7d6c05f5f928",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1815,6 +2191,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Moss 02.mesh.nasset/Rock Moss 02.mesh.nasset",
+        "thumbnail": "65830990-1cff-137a-e8f2-4b7a7bc8a9e6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1827,14 +2204,24 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "bba3c0fd-7669-7113-7677-ba1f687596e4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Grandstand.mesh.nasset/Thumbnails/Grandstand.mesh.nasset.tex.nasset"
+    },
+    "bba951cc-e86f-b01f-bad1-47c0b74de4a6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Road Start.mesh.nasset/Thumbnails/Road Start.mesh.nasset.tex.nasset"
+    },
     "bc816a0b-4b89-1d00-366b-21993b34fa13": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Dirt.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Dirt.mtli.nasset",
+        "thumbnail": "b624c31f-8576-9ca0-cd28-768781e24eac"
     },
     "bcf050ee-8ba8-0db3-0858-bd70786c001e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Pine Tree 05.mesh.nasset/Pine Tree 05.mesh.nasset",
+        "thumbnail": "88281c83-bc7f-cf52-37ea-08624b963aeb",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1859,6 +2246,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Common Tree 03.mesh.nasset/Common Tree 03.mesh.nasset",
+        "thumbnail": "e52ccf47-77f0-26c6-a864-92dead3a0d89",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1867,6 +2255,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Snow 07.mesh.nasset/Rock Snow 07.mesh.nasset",
+        "thumbnail": "3efa8500-caea-beef-c0d9-bf9aab385ceb",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1883,6 +2272,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Road Start.mesh.nasset/Road Start.mesh.nasset",
+        "thumbnail": "bba951cc-e86f-b01f-bad1-47c0b74de4a6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1912,6 +2302,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Grandstand Covered.mesh.nasset/Grandstand Covered.mesh.nasset",
+        "thumbnail": "e712599b-6569-566c-b6c8-833f3c2d8093",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1924,6 +2315,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "c3eec7f2-0c51-f2e1-814a-03b38b834a7c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Ngine.mtli.nasset.tex.nasset"
+    },
     "c45c379a-337c-e33c-88a7-cffa016c2cde": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1932,10 +2327,23 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "c6638023-3cc4-a57c-2987-7453e7c04bed": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Grass 03.mesh.nasset/Thumbnails/Grass 03.mesh.nasset.tex.nasset"
+    },
+    "c6dc0b15-3d12-43d0-3ec5-e05aa28755f5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Pit Office.mesh.nasset/Thumbnails/Pit Office.mesh.nasset.tex.nasset"
+    },
+    "c703fc8f-cfb3-61dc-825c-115a67b44cdc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Moss 07.mesh.nasset/Thumbnails/Rock Moss 07.mesh.nasset.tex.nasset"
+    },
     "c7b87751-4f26-f2f9-cdf3-625289fc60c0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Moss 04.mesh.nasset/Rock Moss 04.mesh.nasset",
+        "thumbnail": "94805bf1-6b4f-f9f7-c2b2-6d6249b5d2e6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1952,9 +2360,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Common Tree 02.mesh.nasset/Common Tree 02.mesh.nasset",
+        "thumbnail": "105e8741-d666-1ee3-3d64-3c426a1f8d9f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "c8585866-250e-a767-20e9-37f1d6d89a96": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Barrier Wall.mesh.nasset/Thumbnails/Barrier Wall.mesh.nasset.tex.nasset"
     },
     "c8fdb560-6516-4422-2e49-56bebfaf7f13": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1974,7 +2387,8 @@
     },
     "ca05be18-d5ce-3928-0f9c-5675c98b13a4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Trim Scondary.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Trim Scondary.mtli.nasset",
+        "thumbnail": "7776ac83-5eb9-d498-48b2-ff25134df8fd"
     },
     "ca386bef-8159-fa0d-2667-b5d720741eb0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1986,7 +2400,12 @@
     },
     "ca397ecf-9f17-0da0-5caa-bed09766b96f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Checkers.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Checkers.mtli.nasset",
+        "thumbnail": "27dc2dc4-d005-38bb-988b-55d1ac9027c6"
+    },
+    "caa96817-619a-ad73-503b-35e9ea89bfe1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Default.mtli.nasset.tex.nasset"
     },
     "cc158d58-436d-43b0-4b90-c4ea7ad4183b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2004,10 +2423,15 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "cec6c844-9b44-76f1-9d15-c8efbb73cf02": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Grass.mtli.nasset.tex.nasset"
+    },
     "cee9d324-b31e-4376-3d86-035af624a877": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Road Corner.mesh.nasset/Road Corner.mesh.nasset",
+        "thumbnail": "8795f851-eed4-77b0-fcf9-ab5d15a314b2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2024,6 +2448,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Lightpost.mesh.nasset/Lightpost.mesh.nasset",
+        "thumbnail": "a16170df-1b8c-4c95-d6a4-d9a56ea02785",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2052,6 +2477,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "d1261bcc-bc5b-6b84-832e-81d7634d1339": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Bridge Ramp.mesh.nasset/Thumbnails/Bridge Ramp.mesh.nasset.tex.nasset"
+    },
+    "d2128404-27be-6523-9469-94b64e663611": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Billboard.mesh.nasset/Thumbnails/Billboard.mesh.nasset.tex.nasset"
+    },
     "d25f5038-55e7-fe23-c5bc-f2c8916f47a3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2067,6 +2500,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "d30d5110-69d1-2c39-b5a6-699c437d7c48": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Snow 01.mesh.nasset/Thumbnails/Rock Snow 01.mesh.nasset.tex.nasset"
     },
     "d36fc97b-14d9-7a89-e1fe-07e2b33dc3e5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2094,7 +2531,12 @@
     },
     "d52e4076-cd8c-bded-a23a-fa4b9d965c41": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Net.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Net.mtli.nasset",
+        "thumbnail": "31057c8c-1588-a343-6e67-50cb31a752e7"
+    },
+    "d63d81d0-c575-6c07-ca61-5bbcbc68448c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Grandstand Awning.mesh.nasset/Thumbnails/Grandstand Awning.mesh.nasset.tex.nasset"
     },
     "d6a47e45-da27-ab04-775a-186cfd4aeb9c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2108,6 +2550,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock 07.mesh.nasset/Rock 07.mesh.nasset",
+        "thumbnail": "32252de7-21b4-6723-cc32-b652099accc2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2128,10 +2571,15 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "d97429ac-f045-e0e7-5567-d563afd54320": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Rock 05.mesh.nasset/Thumbnails/Rock 05.mesh.nasset.tex.nasset"
+    },
     "da4e2735-7df1-9287-b0eb-66da1d3a8ebc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Pit Exit.mesh.nasset/Pit Exit.mesh.nasset",
+        "thumbnail": "7960ca2c-fe56-ef56-1fb1-d463d7394f6e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2178,7 +2626,12 @@
     },
     "dd4e5cf6-ec5f-5e06-c15c-d1b56843ff64": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Pavement.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Pavement.mtli.nasset",
+        "thumbnail": "1fd2d429-cfdc-b12c-eb58-b5834b08fcaa"
+    },
+    "dd5ca735-551f-605a-d3d6-dd761c3f9545": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Racecar.mesh.nasset/Thumbnails/Racecar.mesh.nasset.tex.nasset"
     },
     "ddbcd2ec-136d-e84f-9269-a6b7186e4f28": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2204,10 +2657,15 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "e0053895-bc10-c47d-5e2d-7d6c05f5f928": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Ground Tile.mesh.nasset/Thumbnails/Ground Tile.mesh.nasset.tex.nasset"
+    },
     "e07d3c02-b24c-311f-11f5-7891a414fa05": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Tent Closed.mesh.nasset/Tent Closed.mesh.nasset",
+        "thumbnail": "45fa3e35-4cab-76fa-53bb-8e593d3745b0",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2232,9 +2690,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Fence Curved.mesh.nasset/Fence Curved.mesh.nasset",
+        "thumbnail": "f5dea85a-8370-7f48-3687-b4245b24f774",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "e39ba19b-6751-cbe0-ea1b-51659debe3b7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Fence Straight.mesh.nasset/Thumbnails/Fence Straight.mesh.nasset.tex.nasset"
     },
     "e3b9d8f1-afe9-28ca-5c3a-5986b48d9cda": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2248,6 +2711,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Barrier Single.mesh.nasset/Barrier Single.mesh.nasset",
+        "thumbnail": "ee0e5af4-43b9-b944-a192-4270b988ff85",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2260,10 +2724,15 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "e52ccf47-77f0-26c6-a864-92dead3a0d89": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Common Tree 03.mesh.nasset/Thumbnails/Common Tree 03.mesh.nasset.tex.nasset"
+    },
     "e595f71f-722e-8a8d-1f99-8b6e41f64440": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Grass 01.mesh.nasset/Grass 01.mesh.nasset",
+        "thumbnail": "035f79bf-710e-06ba-2fc0-b16635733407",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2276,6 +2745,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "e6358ac8-ff62-593d-4a3f-8ef6d1c7c70d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Overhead.mesh.nasset/Thumbnails/Overhead.mesh.nasset.tex.nasset"
+    },
     "e6ef31c5-69ba-cf96-1a3e-e3e790427a82": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2283,6 +2756,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "e712599b-6569-566c-b6c8-833f3c2d8093": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Grandstand Covered.mesh.nasset/Thumbnails/Grandstand Covered.mesh.nasset.tex.nasset"
     },
     "e8964627-e70d-c70b-a1e2-0b208ceca0e9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2292,10 +2769,19 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "e8f3fe63-6f40-00b1-a438-d554d2754409": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Garage Corner.mesh.nasset/Thumbnails/Garage Corner.mesh.nasset.tex.nasset"
+    },
+    "eab1015b-3c69-7929-460c-0fa3a7e8aa12": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Road Corner MD Border.mesh.nasset/Thumbnails/Road Corner MD Border.mesh.nasset.tex.nasset"
+    },
     "eac75b0f-e572-1337-fedb-748de4d6d621": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Tent.mesh.nasset/Tent.mesh.nasset",
+        "thumbnail": "7d5cc0bf-2e16-cb04-d522-cfd6e90d73dc",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2331,15 +2817,18 @@
     },
     "ec296554-efb7-3d69-79e9-71af05a3d8b0": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Sand.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Sand.mtli.nasset",
+        "thumbnail": "f8eafb09-3d5e-bdbd-eb5d-9cf95c879f86"
     },
     "ed141a29-5ee5-cd2c-9bda-579d80fbd459": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/DarkGreen.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/DarkGreen.mtli.nasset",
+        "thumbnail": "4bcdd617-757e-5c7d-64c3-dd8334bf5c3a"
     },
     "ed310163-f6e8-fa39-3ed9-826a7933eef2": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Pylon.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Pylon.mtli.nasset",
+        "thumbnail": "55b1405b-7d52-7ae0-e705-5eafe264cd09"
     },
     "ed775c5a-caf6-1d22-02d4-4a9ad4667846": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2348,6 +2837,18 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "ee0e5af4-43b9-b944-a192-4270b988ff85": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Barrier Single.mesh.nasset/Thumbnails/Barrier Single.mesh.nasset.tex.nasset"
+    },
+    "ee1748c4-170f-5ef4-5d9d-6774e66b30e6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Ground Border.mesh.nasset/Thumbnails/Ground Border.mesh.nasset.tex.nasset"
+    },
+    "ef9acb6d-cb68-965f-22cb-465701b07abf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Rock 04.mesh.nasset/Thumbnails/Rock 04.mesh.nasset.tex.nasset"
     },
     "f15b1f34-83dc-7503-c808-bc1b06f33352": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2369,10 +2870,15 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "f3318c3a-d4e1-69b3-95ce-e27bb45a90e5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Railing.mesh.nasset/Thumbnails/Railing.mesh.nasset.tex.nasset"
+    },
     "f39b36d9-7113-9c93-4f33-51e735f204af": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Common Tree 01.mesh.nasset/Common Tree 01.mesh.nasset",
+        "thumbnail": "92d83835-76b6-c501-2cb1-4b50e3e12eb3",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2384,6 +2890,14 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "f5dea85a-8370-7f48-3687-b4245b24f774": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Fence Curved.mesh.nasset/Thumbnails/Fence Curved.mesh.nasset.tex.nasset"
+    },
+    "f7971890-d950-5577-5292-a64667f675c4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Road Bridge.mesh.nasset/Thumbnails/Road Bridge.mesh.nasset.tex.nasset"
     },
     "f7fd0320-e70f-d285-707d-ee94b877b0fd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2401,6 +2915,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "f8eafb09-3d5e-bdbd-eb5d-9cf95c879f86": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Sand.mtli.nasset.tex.nasset"
+    },
     "fa4afa5a-1923-09db-0ae9-118a116055c0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2408,6 +2926,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "faf73419-b818-1ee8-2705-e686b6f5201e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Rock 03.mesh.nasset/Thumbnails/Rock 03.mesh.nasset.tex.nasset"
     },
     "fb2d9634-a452-da7d-1875-c5b5ee3bd33d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2417,10 +2939,19 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "fd625208-f6c4-2103-d0be-4c6e869749b5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Trim Main.mtli.nasset.tex.nasset"
+    },
+    "fda0651a-9fbc-28ef-eb46-b41e32b3eb3c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Grass 02.mesh.nasset/Thumbnails/Grass 02.mesh.nasset.tex.nasset"
+    },
     "fdd24be1-8fc1-246c-ca70-d70c1463c049": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Railing.mesh.nasset/Railing.mesh.nasset",
+        "thumbnail": "f3318c3a-d4e1-69b3-95ce-e27bb45a90e5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2432,6 +2963,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "ff480e0a-400a-71b2-5765-6bc44c592c81": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Formula.scene.nasset/Road Corner LRG Border.mesh.nasset/Thumbnails/Road Corner LRG Border.mesh.nasset.tex.nasset"
     },
     "ff5189c6-5e6e-6a9a-34b5-7b0702f80356": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
