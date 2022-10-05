@@ -1,0 +1,32 @@
+{
+    "guid": "308fd90d-5b87-ac19-a8b1-b68adbe814ac",
+    "source": "../SM_Racecar_Wheel.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "14f5318f-d7a8-355b-b59e-937ec1498ae8",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Racecar Wheel"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e853966f-7ff4-59bd-9af5-e85e7b19e02a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Racecar Wheel"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "34b52122-e18b-9816-f808-148e0c905530"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "308fd90d-5b87-ac19-a8b1-b68adbe814ac"
+    },
+    "thumbnailGuid": "c8e2cc2f-3daa-8db4-8830-a293bb0c5752"
+}

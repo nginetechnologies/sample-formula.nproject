@@ -1,0 +1,32 @@
+{
+    "guid": "68a0033d-4d1e-3d61-8f8f-74e5135d9f41",
+    "source": "../SM_Racecar.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "51c9c1e5-9ab5-3654-80d4-b4be7c2c7dce",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Racecar"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "94cfb14c-dbc3-7fa7-5f76-f922fd5b0c39",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Racecar"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4f98bbdd-e8b6-3793-8473-c9d567d26a30"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "68a0033d-4d1e-3d61-8f8f-74e5135d9f41"
+    },
+    "thumbnailGuid": "9e555fec-6bd2-e173-2c42-5f42988ad8f2"
+}
