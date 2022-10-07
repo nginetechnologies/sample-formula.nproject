@@ -634,12 +634,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Common Tree 05.mesh.nasset/Thumbnails/Common Tree 05.mesh.nasset.tex.nasset"
     },
-    "308fd90d-5b87-ac19-a8b1-b68adbe814ac": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Racecar/SM_Racecar_Wheel.scene.nasset/SM_Racecar_Wheel.scene.nasset",
-        "thumbnail": "c8e2cc2f-3daa-8db4-8830-a293bb0c5752"
-    },
     "30d1056c-4a6c-a3c1-9d03-7622596293c4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Grandstand Round.mesh.nasset/Thumbnails/Grandstand Round.mesh.nasset.tex.nasset"
@@ -694,14 +688,6 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "34b52122-e18b-9816-f808-148e0c905530": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Racecar/SM_Racecar_Wheel.scene.nasset/Racecar Wheel.mesh.nasset/Racecar Wheel.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
     "350ee76e-b613-07fa-d601-87ddfd024b58": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -746,6 +732,14 @@
         "thumbnail": "1d261ddd-bef5-00c1-d74a-b121ca80108b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "3840fe63-b205-c3ed-3b9c-37a2be30571c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Racecar/SM_Racecar_Wheel.scene.nasset/Racecar Wheel.mesh.nasset/Racecar Wheel White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
     "39457bbe-1a1e-69ce-886d-d1eb1ceae43e": {
@@ -805,6 +799,19 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "3de3a37b-04e2-0c2b-7fda-aae43c8a728b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Racecar/SM_Racecar_Wheel.scene.nasset/Racecar Wheel.mesh.nasset/Racecar Wheel Tire.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3e4d2676-06c2-e5f5-2c45-d0c3bb98f5be": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Racecar/SM_Racecar_Wheel.scene.nasset/SM_Racecar_Wheel.scene.nasset"
     },
     "3ebf681f-073b-c90a-6620-0554847ac06f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1282,6 +1289,14 @@
         "path": "Assets/Scene/SC_Formula.scene.nasset/Road Corner LRG Border.mesh.nasset/Road Corner LRG Border Trim Main.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "673a614f-5053-52b9-ea6e-9f2bd0d5ff61": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Racecar/SM_Racecar_Wheel.scene.nasset/Racecar Wheel.mesh.nasset/Racecar Wheel.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "67e8243b-0801-187f-5244-6c369d0e8af7": {
@@ -1947,6 +1962,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "97251675-e40b-dfde-36d5-d8360534bc8f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Racecar/Material Instances/White.mtli.nasset"
+    },
     "98015598-0937-c52b-1402-ed475b2ebf3c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2110,14 +2129,6 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Moss 05.mesh.nasset/Rock Moss 05 Green.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "a781656c-cd69-2741-eedd-66fe77fcc684": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Racecar/SM_Racecar_Wheel.scene.nasset/Racecar Wheel.mesh.nasset/Racecar Wheel White.001.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -2378,14 +2389,6 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
-    "c28037f2-ef4b-48e0-fde4-58186ad561bb": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Racecar/SM_Racecar_Wheel.scene.nasset/Racecar Wheel.mesh.nasset/Racecar Wheel Tire.001.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
     "c2a98dc1-af1f-9b95-8fd4-d9b4699ea4c3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2485,10 +2488,6 @@
     "c8585866-250e-a767-20e9-37f1d6d89a96": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Barrier Wall.mesh.nasset/Thumbnails/Barrier Wall.mesh.nasset.tex.nasset"
-    },
-    "c8e2cc2f-3daa-8db4-8830-a293bb0c5752": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Racecar/SM_Racecar_Wheel.scene.nasset/Thumbnails/SM_Racecar_Wheel.scene.nasset.tex.nasset"
     },
     "c8fdb560-6516-4422-2e49-56bebfaf7f13": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",

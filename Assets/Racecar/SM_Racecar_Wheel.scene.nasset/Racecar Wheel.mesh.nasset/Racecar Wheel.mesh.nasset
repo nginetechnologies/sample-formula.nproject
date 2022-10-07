@@ -1,16 +1,16 @@
 {
-    "guid": "34b52122-e18b-9816-f808-148e0c905530",
+    "guid": "673a614f-5053-52b9-ea6e-9f2bd0d5ff61",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "3d9f3961-492a-17be-095e-0327404213a1",
+    "instanceGuid": "ed2e17fc-4382-8392-7b57-c8d960d6e457",
     "data_components": [],
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "196365c8-9522-9564-babe-937839c5fd2c",
+            "instanceGuid": "9dd59023-7abc-fb9f-b0f8-ef6ee44a8088",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -24,21 +24,21 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "0b7d96e7-a67f-8685-9546-350d9be7c566",
+                    "instanceGuid": "172401f3-35e3-4469-f03e-5a36c2c3e6e6",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Racecar Wheel Tire.001 Collider"
+                            "name": "Racecar Wheel Tire Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "0c9cef4a-678a-3784-ff56-82f3c93da8ed",
+                            "instanceGuid": "fbc81d78-83f6-cdae-177c-2462e5742e0b",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Racecar Wheel Tire.001"
+                                    "name": "Racecar Wheel Tire"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -48,13 +48,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "c28037f2-ef4b-48e0-fde4-58186ad561bb",
-                                "material_instance": "9208a633-8528-b88e-ada4-7a4c4947cdf1"
+                                "mesh": "3de3a37b-04e2-0c2b-7fda-aae43c8a728b",
+                                "material_instance": "9b023efe-d542-7324-7c45-23f25eba0a81"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "c28037f2-ef4b-48e0-fde4-58186ad561bb"
+                        "mesh": "3de3a37b-04e2-0c2b-7fda-aae43c8a728b"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -62,21 +62,21 @@
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "e8173e82-44b4-e734-009b-14bda20e0c53",
+                    "instanceGuid": "a71cd4c5-2006-d891-c918-7369e0ac7a57",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Racecar Wheel White.001 Collider"
+                            "name": "Racecar Wheel White Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "492d4126-e722-e8fe-ea45-c4a5c33d8fb7",
+                            "instanceGuid": "3909d449-6122-9844-1ba2-495f28fc4f74",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Racecar Wheel White.001"
+                                    "name": "Racecar Wheel White"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -86,13 +86,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "a781656c-cd69-2741-eedd-66fe77fcc684",
-                                "material_instance": "af7a553c-b81d-7bab-d25f-a4c18707ec19"
+                                "mesh": "3840fe63-b205-c3ed-3b9c-37a2be30571c",
+                                "material_instance": "97251675-e40b-dfde-36d5-d8360534bc8f"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "a781656c-cd69-2741-eedd-66fe77fcc684"
+                        "mesh": "3840fe63-b205-c3ed-3b9c-37a2be30571c"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -102,6 +102,6 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "34b52122-e18b-9816-f808-148e0c905530"
+        "scene": "673a614f-5053-52b9-ea6e-9f2bd0d5ff61"
     }
 }
