@@ -101,14 +101,14 @@
                                 }
                             ],
                             "d91b1554-ed01-40a7-90eb-638fdb6e8ce0": {
-                                "minRPM": 4000.0,
-                                "maxRPM": 14000.0,
+                                "minRPM": 419.0,
+                                "maxRPM": 1466.0,
                                 "maxTorque": 200.0,
                                 "reverseGearRatio": -2.9,
                                 "gearSwitchTime": 0.05,
                                 "clutchReleaseTime": 0.05,
-                                "shiftUpRPM": 13000.0,
-                                "shiftDownRPM": 8000.0
+                                "shiftUpRPM": 1361.0,
+                                "shiftDownRPM": 837.0
                             }
                         },
                         {
