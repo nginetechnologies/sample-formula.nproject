@@ -1,0 +1,682 @@
+{
+    "guid": "946b5e0d-0840-496c-9a94-5942b377ecb6",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "9dcb54d0-7841-448c-9448-a72b6c9409e5",
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 4096.0
+    },
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Player"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "12ca6356-60c0-4b32-a075-1797d89cc32b",
+            "instanceGuid": "3b6d9855-ca4e-4180-977c-42a73810dfdd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "HUD"
+                }
+            ]
+        },
+        {
+            "typeGuid": "024630c0-b538-4b7a-8c20-d794ff8e7919",
+            "instanceGuid": "f22f98d3-65bc-4136-ab58-80e1080c7853",
+            "data_components": [
+                {
+                    "typeGuid": "be33f822-02f0-4d8b-9553-8f6200b43f83"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Vehicle Controller"
+                }
+            ],
+            "024630c0-b538-4b7a-8c20-d794ff8e7919": {
+                "steerAssistRatio": 1.0,
+                "steeringResponsivness": 0.8,
+                "steeringReleaseResponsivness": 10.0,
+                "accelerationResponsivness": 3.0,
+                "accelerationReleaseResponsivness": 20.0
+            },
+            "children": [
+                {
+                    "typeGuid": "b0ec7111-5de9-4039-bee2-d915f63f929e",
+                    "instanceGuid": "37d1137d-6fa5-4032-b81a-d6d25dda4672",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0,
+                            -5.0,
+                            0.75
+                        ],
+                        "rotation": [
+                            -20.0,
+                            0.0,
+                            0.0
+                        ]
+                    },
+                    "b0ec7111-5de9-4039-bee2-d915f63f929e": {
+                        "fieldOfView": 60.0,
+                        "nearPlane": 0.05,
+                        "farPlane": 128.0
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "0d3920f0-883f-41fc-bf30-2079a383cb27",
+                            "rotationSpeed": 6.0,
+                            "positionSpeed": 14.0,
+                            "verticalStep": 0.0
+                        },
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Camera"
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "2fe2589c-79f4-4456-84e2-7b57af139e49",
+                    "instanceGuid": "f4a791f0-abfd-4e46-8a31-fe34ac716ed5",
+                    "a413cecf-a566-413d-bb01-bd1317cd4bb2": {
+                        "physical_material": "3d17911b-a4ed-4afd-b480-aedbefd0f13b"
+                    },
+                    "ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
+                        "type": 2,
+                        "layer": 1,
+                        "body_flags": 4,
+                        "maximumAngularVelocity": 2700.0,
+                        "overriddenMass": 1000.0
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                            "mask": [
+                                "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+                            ]
+                        },
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Vehicle Base"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "d91b1554-ed01-40a7-90eb-638fdb6e8ce0",
+                            "instanceGuid": "9315ce99-0e2b-4f60-a480-21a0563186c8",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Engine"
+                                }
+                            ],
+                            "d91b1554-ed01-40a7-90eb-638fdb6e8ce0": {
+                                "minRPM": 419.0,
+                                "maxRPM": 1466.0,
+                                "maxTorque": 200.0,
+                                "reverseGearRatio": -2.9,
+                                "gearSwitchTime": 0.05,
+                                "clutchReleaseTime": 0.05,
+                                "shiftUpRPM": 1361.0,
+                                "shiftDownRPM": 837.0
+                            }
+                        },
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "57c9d328-bd93-49a4-bb71-4da090e1525d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Racecar Tire"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.0,
+                                    0.1,
+                                    -0.2
+                                ]
+                            },
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "044b4fa3-c27f-ed53-930d-973df83f9b40",
+                                "material_instance": "9b023efe-d542-7324-7c45-23f25eba0a81"
+                            }
+                        },
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "29e5a909-4ec4-4243-86f5-335c59207d7a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Racecar Trim Main"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.0,
+                                    0.1,
+                                    -0.2
+                                ]
+                            },
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4e082a47-a588-8ed8-ad99-5ac923118c58",
+                                "material_instance": "c29d3b86-3ddd-4839-a5f4-300b745ce042"
+                            }
+                        },
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "02563b95-4037-4ac8-963f-0f50b213d784",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Racecar Glass"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.0,
+                                    0.1,
+                                    -0.2
+                                ]
+                            },
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c398c964-fcf8-c314-a09b-d829fa0efb0d",
+                                "material_instance": "20ccd9e0-66fc-475f-c0ea-5c26200f41ce"
+                            }
+                        },
+                        {
+                            "typeGuid": "e81f4e62-fee0-4182-9c1a-a47c053b813f",
+                            "instanceGuid": "27c5cd41-8194-4e76-8728-42c18e3d255c",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "scale": [
+                                    0.5
+                                ]
+                            },
+                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                "physical_material": "3d17911b-a4ed-4afd-b480-aedbefd0f13b",
+                                "comOffset": [
+                                    0.0,
+                                    -0.2,
+                                    -0.4
+                                ]
+                            },
+                            "e81f4e62-fee0-4182-9c1a-a47c053b813f": {
+                                "size": [
+                                    0.6,
+                                    1.0,
+                                    0.2
+                                ],
+                                "half_extent": [
+                                    0.6,
+                                    1.0,
+                                    0.2
+                                ]
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "27c5cd41-8194-4e76-8728-42c18e3d255c"
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Vehicle Base Collider"
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "6ab4b4e1-d1d8-481a-973d-3f6f7cc47e13",
+                            "instanceGuid": "380188c5-0b01-4bbd-8dfe-7aca35454ccc",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.0,
+                                    -0.5,
+                                    0.0
+                                ]
+                            },
+                            "6ab4b4e1-d1d8-481a-973d-3f6f7cc47e13": {
+                                "powerRatio": 0.8,
+                                "powerSplit": 0.5,
+                                "differentialRatio": 3.42,
+                                "antiRollBarStiffness": 1000.0
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Axle"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "a693a6f2-46a7-4c47-a90a-957ce3fd686f",
+                                    "instanceGuid": "c5feff25-597f-44e8-bc65-2b38e0c66d64",
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "position": [
+                                            0.350,
+                                            0.0,
+                                            0.0
+                                        ]
+                                    },
+                                    "a693a6f2-46a7-4c47-a90a-957ce3fd686f": {
+                                        "maxSteeringAngle": 0.0,
+                                        "radius": 0.2,
+                                        "width": 0.2,
+                                        "minSuspensionLength": 0.0,
+                                        "maxSuspensionLength": 0.15,
+                                        "suspensionStiffness": 2.0,
+                                        "suspensionDamping": 1.0,
+                                        "forwardGrip": 1.2,
+                                        "sidewaysGrip": 1.5
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "New Wheel"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                            "instanceGuid": "5249380e-4b35-4153-8c69-83ebffb53836",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Racecar Wheel Tire.001"
+                                                }
+                                            ],
+                                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                                "position": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "rotation": [
+                                                    0.0,
+                                                    -90.0,
+                                                    0.0
+                                                ]
+                                            },
+                                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                "stages": [
+                                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                ]
+                                            },
+                                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                "mesh": "97d880ba-1d22-506c-47b1-b5c8d6815493",
+                                                "material_instance": "9b023efe-d542-7324-7c45-23f25eba0a81"
+                                            }
+                                        },
+                                        {
+                                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                            "instanceGuid": "1188d1e9-f4f1-402f-bc21-b56bd6b21ba6",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Racecar Wheel White.001"
+                                                }
+                                            ],
+                                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                                "position": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "rotation": [
+                                                    0.0,
+                                                    -90.0,
+                                                    0.0
+                                                ]
+                                            },
+                                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                "stages": [
+                                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                ]
+                                            },
+                                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                "mesh": "c8009de7-7778-3f46-5f47-61a2706c4d94",
+                                                "material_instance": "97251675-e40b-dfde-36d5-d8360534bc8f"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "typeGuid": "a693a6f2-46a7-4c47-a90a-957ce3fd686f",
+                                    "instanceGuid": "314915a1-abf9-481a-8d43-8c962be37861",
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "position": [
+                                            -0.350,
+                                            0.0,
+                                            0.0
+                                        ]
+                                    },
+                                    "a693a6f2-46a7-4c47-a90a-957ce3fd686f": {
+                                        "maxSteeringAngle": 0.0,
+                                        "radius": 0.2,
+                                        "width": 0.2,
+                                        "minSuspensionLength": 0.0,
+                                        "maxSuspensionLength": 0.15,
+                                        "suspensionStiffness": 2.0,
+                                        "suspensionDamping": 1.0,
+                                        "forwardGrip": 1.2,
+                                        "sidewaysGrip": 1.5
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "New Wheel"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                            "instanceGuid": "ce5fb0c6-db5c-41a6-a65e-022459ecba3c",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Racecar Wheel Tire.001"
+                                                }
+                                            ],
+                                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                                "position": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "rotation": [
+                                                    0.0,
+                                                    90.0,
+                                                    0.0
+                                                ]
+                                            },
+                                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                "stages": [
+                                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                ]
+                                            },
+                                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                "mesh": "97d880ba-1d22-506c-47b1-b5c8d6815493",
+                                                "material_instance": "9b023efe-d542-7324-7c45-23f25eba0a81"
+                                            }
+                                        },
+                                        {
+                                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                            "instanceGuid": "1a584ec4-c1cf-455d-9c3f-89d13470fd71",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Racecar Wheel White.001"
+                                                }
+                                            ],
+                                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                                "position": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "rotation": [
+                                                    0.0,
+                                                    90.0,
+                                                    0.0
+                                                ]
+                                            },
+                                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                "stages": [
+                                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                ]
+                                            },
+                                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                "mesh": "c8009de7-7778-3f46-5f47-61a2706c4d94",
+                                                "material_instance": "97251675-e40b-dfde-36d5-d8360534bc8f"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "6ab4b4e1-d1d8-481a-973d-3f6f7cc47e13",
+                            "instanceGuid": "efbbe468-ebc6-4b56-babe-23519d26e139",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.0,
+                                    0.5,
+                                    0.0
+                                ]
+                            },
+                            "6ab4b4e1-d1d8-481a-973d-3f6f7cc47e13": {
+                                "powerRatio": 0.2,
+                                "powerSplit": 0.5,
+                                "differentialRatio": 3.42,
+                                "antiRollBarStiffness": 200.0
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Axle"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "a693a6f2-46a7-4c47-a90a-957ce3fd686f",
+                                    "instanceGuid": "ebea8822-7bc1-433d-8e9f-58c71c00c087",
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "position": [
+                                            -0.350,
+                                            0.0,
+                                            0.0
+                                        ]
+                                    },
+                                    "a693a6f2-46a7-4c47-a90a-957ce3fd686f": {
+                                        "maxSteeringAngle": 60.0,
+                                        "radius": 0.2,
+                                        "width": 0.2,
+                                        "minSuspensionLength": 0.0,
+                                        "maxSuspensionLength": 0.1,
+                                        "suspensionStiffness": 4.0,
+                                        "suspensionDamping": 0.8,
+                                        "maxHandbrakeTorque": 0.0,
+                                        "forwardGrip": 2.0,
+                                        "sidewaysGrip": 2.0
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "New Wheel",
+                                            "flags": 2
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                            "instanceGuid": "0b6a17a0-7640-4135-b112-f8a611d45a15",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Racecar Wheel Tire.001"
+                                                }
+                                            ],
+                                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                                "position": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "rotation": [
+                                                    0.0,
+                                                    90.0,
+                                                    0.0
+                                                ]
+                                            },
+                                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                "stages": [
+                                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                ]
+                                            },
+                                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                "mesh": "97d880ba-1d22-506c-47b1-b5c8d6815493",
+                                                "material_instance": "9b023efe-d542-7324-7c45-23f25eba0a81"
+                                            }
+                                        },
+                                        {
+                                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                            "instanceGuid": "57213c35-ca5e-4294-8f3e-9764e14235f9",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Racecar Wheel White.001"
+                                                }
+                                            ],
+                                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                                "position": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "rotation": [
+                                                    0.0,
+                                                    90.0,
+                                                    0.0
+                                                ]
+                                            },
+                                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                "stages": [
+                                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                ]
+                                            },
+                                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                "mesh": "c8009de7-7778-3f46-5f47-61a2706c4d94",
+                                                "material_instance": "97251675-e40b-dfde-36d5-d8360534bc8f"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "typeGuid": "a693a6f2-46a7-4c47-a90a-957ce3fd686f",
+                                    "instanceGuid": "e22d4551-8966-48bd-bd75-4c34544e9783",
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "position": [
+                                            0.350,
+                                            0.0,
+                                            0.0
+                                        ]
+                                    },
+                                    "a693a6f2-46a7-4c47-a90a-957ce3fd686f": {
+                                        "maxSteeringAngle": 60.0,
+                                        "radius": 0.2,
+                                        "width": 0.2,
+                                        "minSuspensionLength": 0.0,
+                                        "maxSuspensionLength": 0.1,
+                                        "suspensionStiffness": 4.0,
+                                        "suspensionDamping": 0.8,
+                                        "maxHandbrakeTorque": 0.0,
+                                        "forwardGrip": 2.0,
+                                        "sidewaysGrip": 2.0
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "New Wheel"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                            "instanceGuid": "b9f75d48-d67a-4610-b05d-f4e2380f9acb",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Racecar Wheel Tire.001"
+                                                }
+                                            ],
+                                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                                "position": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "rotation": [
+                                                    0.0,
+                                                    -90.0,
+                                                    0.0
+                                                ]
+                                            },
+                                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                "stages": [
+                                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                ]
+                                            },
+                                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                "mesh": "97d880ba-1d22-506c-47b1-b5c8d6815493",
+                                                "material_instance": "9b023efe-d542-7324-7c45-23f25eba0a81"
+                                            }
+                                        },
+                                        {
+                                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                                            "instanceGuid": "929fed75-c6ac-4dd2-a011-2bb804385b60",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Racecar Wheel White.001"
+                                                }
+                                            ],
+                                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                                "position": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "rotation": [
+                                                    0.0,
+                                                    -90.0,
+                                                    0.0
+                                                ]
+                                            },
+                                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                "stages": [
+                                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                                ]
+                                            },
+                                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                "mesh": "c8009de7-7778-3f46-5f47-61a2706c4d94",
+                                                "material_instance": "97251675-e40b-dfde-36d5-d8360534bc8f"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "946b5e0d-0840-496c-9a94-5942b377ecb6"
+    }
+}
