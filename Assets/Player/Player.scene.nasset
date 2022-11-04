@@ -13,6 +13,16 @@
     ],
     "children": [
         {
+            "typeGuid": "12ca6356-60c0-4b32-a075-1797d89cc32b",
+            "instanceGuid": "adcc6dc5-3206-43f5-8180-d32e725322a5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "HUD"
+                }
+            ]
+        },
+        {
             "typeGuid": "024630c0-b538-4b7a-8c20-d794ff8e7919",
             "instanceGuid": "05d8c77e-c827-4bfa-b666-170762eb37d8",
             "data_components": [
