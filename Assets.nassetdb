@@ -1908,6 +1908,11 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "946b5e0d-0840-496c-9a94-5942b377ecb6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Player/Player4WD.scene.nasset"
+    },
     "94805bf1-6b4f-f9f7-c2b2-6d6249b5d2e6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Formula.scene.nasset/Rock Moss 04.mesh.nasset/Thumbnails/Rock Moss 04.mesh.nasset.tex.nasset"
@@ -2379,6 +2384,11 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "c29d3b86-3ddd-4839-a5f4-300b745ce042": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Racecar/Material Instances/Trim Main 4WD.mtli.nasset",
+        "thumbnail": "6ac76e34-ac15-6485-12dd-9e2f9b4f33e5"
     },
     "c2a98dc1-af1f-9b95-8fd4-d9b4699ea4c3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
