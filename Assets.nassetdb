@@ -2401,7 +2401,10 @@
     "c2ad055e-7e6d-41c5-968f-8c5545888e34": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
-        "thumbnail": "02b774b5-27bb-4b33-8f0d-219364677d49"
+        "thumbnail": "02b774b5-27bb-4b33-8f0d-219364677d49",
+        "tags": [
+            "0c26b65a-dcc6-4109-aa99-44ccfc84ba67"
+        ]
     },
     "c2cbb3f0-a0d9-3f0e-d31c-2ee60fbe3413": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
