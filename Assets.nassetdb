@@ -1,17 +1,14 @@
 {
-    "c2ad055e-7e6d-41c5-968f-8c5545888e34": {
-        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
-        "path": "Project.nproject",
-        "thumbnail": "02b774b5-27bb-4b33-8f0d-219364677d49"
-    },
-        "37934ff0-e3af-405c-b126-a2b3c88f79b4": {
+    "37934ff0-e3af-405c-b126-a2b3c88f79b4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/Formula.scene.nasset"
     },
-    "b507c2f5-2e40-dab3-d9fa-ca12ea372873": {
-        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
-        "path": "Assets.nassetdb"
+    "c2ad055e-7e6d-41c5-968f-8c5545888e34": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Formula",
+        "thumbnail": "02b774b5-27bb-4b33-8f0d-219364677d49"
     },
     "guid": "b507c2f5-2e40-dab3-d9fa-ca12ea372873",
     "imported_assets": [
