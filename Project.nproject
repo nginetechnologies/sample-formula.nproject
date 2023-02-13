@@ -1,6 +1,7 @@
 {
     "name": "Formula",
     "guid": "c2ad055e-7e6d-41c5-968f-8c5545888e34",
+    "database_guid": "b507c2f5-2e40-dab3-d9fa-ca12ea372873",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
