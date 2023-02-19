@@ -4,6 +4,10 @@
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/Formula.scene.nasset"
     },
+    "b507c2f5-2e40-dab3-d9fa-ca12ea372873": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
     "c2ad055e-7e6d-41c5-968f-8c5545888e34": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
