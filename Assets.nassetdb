@@ -12,7 +12,10 @@
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Formula",
-        "thumbnail": "02b774b5-27bb-4b33-8f0d-219364677d49"
+        "thumbnail": "02b774b5-27bb-4b33-8f0d-219364677d49",
+        "tags": [
+            "0c26b65a-dcc6-4109-aa99-44ccfc84ba67"
+        ]
     },
     "guid": "b507c2f5-2e40-dab3-d9fa-ca12ea372873",
     "imported_assets": [
