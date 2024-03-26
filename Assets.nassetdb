@@ -2,7 +2,11 @@
     "37934ff0-e3af-405c-b126-a2b3c88f79b4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Formula.scene.nasset"
+        "path": "Assets/Formula.scene.nasset",
+            "metadata": {
+        "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":512.0}",
+        "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-16.3261661529541,35.04860305786133,29.240270614624025],\"rotation\":[-33.73282241821289,9.81105898745227e-8,-145.66561889648438]}"
+    }
     },
     "b507c2f5-2e40-dab3-d9fa-ca12ea372873": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",

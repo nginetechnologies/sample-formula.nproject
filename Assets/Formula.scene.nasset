@@ -6,40 +6,11 @@
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 4096.0
     },
+    "metadata": {
+        "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":512.0}",
+        "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-16.3261661529541,35.04860305786133,29.240270614624025],\"rotation\":[-33.73282241821289,9.81105898745227e-8,-145.66561889648438]}"
+    },
     "data_components": [
-        {
-            "typeGuid": "05a7011d-a220-49f2-98df-81b32be3c0fd",
-            "camera_settings": {
-                "typeGuid": "9ae0e145-86b4-4e47-afda-697bbd008922",
-                "9ae0e145-86b4-4e47-afda-697bbd008922": {
-                    "fieldOfView": 60.0,
-                    "nearPlane": 0.1,
-                    "farPlane": 1024.0
-                }
-            },
-            "transform": {
-                "position": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            "grid_settings": {
-                "typeGuid": "ecc5ac5d-5450-4808-97b1-e25d91462d96",
-                "ecc5ac5d-5450-4808-97b1-e25d91462d96": {
-                    "transform": {
-                        "scale": [
-                            -1.0
-                        ]
-                    }
-                }
-            }
-        },
         {
             "typeGuid": "7cf4ed1d-8eaf-485d-a41a-10ec7756ff41"
         }
@@ -3190,9 +3161,9 @@
                     2.9937
                 ],
                 "rotation": [
-                    -45.0121,
+                    -45.0,
                     0.0,
-                    0.0
+                    -35.0
                 ]
             },
             "9f750482-b822-4d4b-be6a-9c135c614328": {
